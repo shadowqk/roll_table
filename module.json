@@ -1,0 +1,11 @@
+{
+	"name": "roll_table",
+	"title": "Roll Table",
+	"description": "Make that d20 icon at the bottom of chat open a roll table.",
+	"version": "0.1",
+	"author": "kylar",
+	"systems": ["dnd5e"],
+	"scripts": ["roll_table.js"],
+	"styles": ["style.css"],
+	"packs": []
+}
